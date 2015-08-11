@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>53CE7519-F4B5-46BF-A0B2-CB4137A52805</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSDay1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0283BDD0B7F34295ADED2EC68226561535B1F1A</key>
+		<string>https://github.com/bitmakerlabs/July20thMobileCohortAssignment1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSDay1.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0283BDD0B7F34295ADED2EC68226561535B1F1A</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bitmakerlabs/July20thMobileCohortAssignment1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0283BDD0B7F34295ADED2EC68226561535B1F1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0283BDD0B7F34295ADED2EC68226561535B1F1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>July20thMobileCohortAssignment1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
