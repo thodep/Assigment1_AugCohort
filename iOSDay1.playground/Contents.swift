@@ -500,7 +500,7 @@ We can combine two of our previous loops to create this:
 
 */
 
-// Type code here !!!
+// Type code here !!! very confusing
 for i in 0 ..< personAction.count {
 var str = "\(personAction[i]) then play"
     for _ in 1...2 {
@@ -535,7 +535,10 @@ These while loops work best when you're using unknown data, such as downloading 
 ### Have a go. Create a while loop that stops when a value has reached 100. Make sure to print this out on success.
 */
 // Type code here !!!
-
+var counter = 0
+while true {
+print("Counter is now (counter)")
+}
 
 
 /*:
