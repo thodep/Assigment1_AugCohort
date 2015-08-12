@@ -634,8 +634,11 @@ That runs the function (or "calls" it), so now you'll see "Super Meat Boy" print
 
 */
 // Type code here !!!
+func myRealName() {
+print("Tho Dang")
 
-
+}
+myRealName()
 
 /*:
 Of course, that's a ridiculous example – that function does the same thing no matter what, so there's no point it existing. But what if we wanted to print a different album each time? In that case, we could tell Swift we want our function to accept a value when it's called, then use that value inside it.
@@ -652,9 +655,11 @@ Have a go. create a function that displays your favorite thing. Taking your favo
 
 */
 // Type code here !!!
+func favoriteThing1 (favThin: String)-> String {
+return "My favorite thing to do is "  +  favThin + "!"
 
-
-
+}
+print(favoriteThing1("to spend time with my family "))
 /*:
 ## Functions with mutiple parameters
 
@@ -672,7 +677,11 @@ Have a go. Create a function that accepts multiple parameters.
 
 */
 // Type code here !!!
+func makeAUnicorn(name:String,initial:Character, month:String,yearBorn:Int){
+print("\(name) who is all called \(initial) was born in \(month) \(yearBorn)")
+}
 
+makeAUnicorn("Rainbow Unicorn","R"," May", 2007)
 /*:
 
 ## Return values
@@ -706,7 +715,6 @@ You can now call that by passing the game name in and acting on the result:
 ### Have a go Create a function that as above returns a boolean value. Use if conditions to determine if the passed value is true or not. Then in an if statement use the function to determine whether the value passed is true or false.
 
 */
-
 
 /*:
 
