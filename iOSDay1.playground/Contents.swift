@@ -715,7 +715,24 @@ You can now call that by passing the game name in and acting on the result:
 ### Have a go Create a function that as above returns a boolean value. Use if conditions to determine if the passed value is true or not. Then in an if statement use the function to determine whether the value passed is true or false.
 
 */
+func isSwiftEasy(studentName:String)-> Bool{
+    if studentName == "Tho" {return true}
+    if studentName == "Vincent"{return true}
+    if studentName == "Daniel"{return true}
+    return false
+}
 
+if isSwiftEasy("Tho"){
+print("Nope , its not easy but its approachable")
+} else {
+print("Whatever")
+}
+
+if isSwiftEasy("Daniel"){
+print("Its easier than Objective C but I rather build app in Objective C")
+} else {
+print("learn it then you tell me")
+}
 /*:
 
 Congratulations on finishing day ones assignment now you can post your finished playground to gitHub.
