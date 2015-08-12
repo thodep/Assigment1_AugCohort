@@ -537,7 +537,12 @@ These while loops work best when you're using unknown data, such as downloading 
 // Type code here !!!
 var counter = 0
 while true {
-print("Counter is now (counter)")
+print("Counter is now \(counter)")
+    ++counter
+    if counter == 100 {
+        
+        break
+    }
 }
 
 
@@ -594,7 +599,18 @@ One thing you should know is that switch/case blocks in Swift don't fall through
 */
 // Type code here !!!
 
-
+let favThings = 1
+switch favThings {
+case 0 :
+    print("Eating")
+case 1:
+    print("Watching Movies")
+case 2 :
+    print("Play with my phone")
+default:
+    print("I like many things")
+    
+}
 
 /*:
 ## Functions

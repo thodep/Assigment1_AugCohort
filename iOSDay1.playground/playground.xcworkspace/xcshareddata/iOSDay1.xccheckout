@@ -10,6 +10,8 @@
 	<string>iOSDay1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>3190FB4C54BE9F96B231DD8052095D6291C41BCE</key>
+		<string>https://github.com/thodep/Assigment1_AugCohort.git</string>
 		<key>E0283BDD0B7F34295ADED2EC68226561535B1F1A</key>
 		<string>https://github.com/bitmakerlabs/July20thMobileCohortAssignment1.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>iOSDay1.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E0283BDD0B7F34295ADED2EC68226561535B1F1A</key>
+		<key>3190FB4C54BE9F96B231DD8052095D6291C41BCE</key>
 		<string>..</string>
+		<key>E0283BDD0B7F34295ADED2EC68226561535B1F1A</key>
+		<string>../../July20thMobileCohortAssignment1</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bitmakerlabs/July20thMobileCohortAssignment1.git</string>
+	<string>https://github.com/thodep/Assigment1_AugCohort.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E0283BDD0B7F34295ADED2EC68226561535B1F1A</string>
+	<string>3190FB4C54BE9F96B231DD8052095D6291C41BCE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3190FB4C54BE9F96B231DD8052095D6291C41BCE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assigment1_AugCohort</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
