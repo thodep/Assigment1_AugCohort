@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3190FB4C54BE9F96B231DD8052095D6291C41BCE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E0283BDD0B7F34295ADED2EC68226561535B1F1A" : 0,
+    "3190FB4C54BE9F96B231DD8052095D6291C41BCE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "53CE7519-F4B5-46BF-A0B2-CB4137A52805",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E0283BDD0B7F34295ADED2EC68226561535B1F1A" : "July20thMobileCohortAssignment1",
+    "3190FB4C54BE9F96B231DD8052095D6291C41BCE" : "Assigment1_AugCohort\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSDay1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSDay1.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thodep\/Assigment1_AugCohort.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3190FB4C54BE9F96B231DD8052095D6291C41BCE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bitmakerlabs\/July20thMobileCohortAssignment1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0283BDD0B7F34295ADED2EC68226561535B1F1A"
+    }
+  ]
+}
